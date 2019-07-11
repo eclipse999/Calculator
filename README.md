@@ -10,4 +10,4 @@ a simple python calculator.<br>
 
 ---
 ## 使用方式 
-直接把整個exe解壓到一個資料夾，執行"calculator.exe"即可。 <br>
+執行exe資料夾裡的"calculator.exe"即可。
