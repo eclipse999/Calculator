@@ -7,5 +7,5 @@ a simple python calculator.<br>
 * 累加累減記憶功能
 * 切換主題(暗色or亮色)
 <hr>
-## 使用方式
+### 使用方式
 直接把整個exe解壓到一個資料夾，執行"calculator.exe"即可。<br>
