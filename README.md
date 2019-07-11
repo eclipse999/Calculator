@@ -1,5 +1,6 @@
 # Calculator-PyQt5-
 a simple python calculator.<br> 
+新手練手用，請多見諒。<br>
 ![imgur]( https://imgur.com/LUv734N.jpg "main_window")
 
 ---
